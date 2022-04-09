@@ -13,9 +13,9 @@ Computer Science student at [**Computing Technology KFU**](https://kpfu.ru/compu
 
 #### Data Science & Computer Science
 
-- <a href="https://data.vk.company/pages/about/" target="_blank"><img src='https://play.google.com/store/apps/details?id=ru.mts.mymts&hl=en_US&gl=US' width=20></a> Currently go to [**MTS School of Data Analitics**](https://data.vk.company/pages/about/)
+- <a href="https://www.teta.mts.ru/analytics" target="_blank"><img src='https://play-lh.googleusercontent.com/xqEyND_gIVqw8CXU7f4EJ3VTXY1_vgXRP2Ts8-p1BymH5e7DhFB2yWTemUFi3sBZsOoq' width=20></a> Currently go to [**MTS School of Data Analitics**](https://www.teta.mts.ru/analytics)
 - 🙋🏻‍♂️ Second-year bachelor in software engineering @ [**Computing Technology Kazan Federal University**](https://www.teta.mts.ru/analytics)
-- ⚙ `.java` development using **Spring Framework & Java EE** @ [**ITIS Java Laboratory**](https://vk.com/itis_java_lab/)
+- ⚙ `.java` development using **Spring Framework & Java EE** @ [**ITIS Java Laboratory**](https://kpfu.ru/computing-technology)
 
 ### 👾 BIO
 
@@ -24,6 +24,6 @@ Computer Science student at [**Computing Technology KFU**](https://kpfu.ru/compu
 
 ### 📧 Get in Touch
 
-[![My Telegram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&psig=AOvVaw1cB-3FjFK3ybwcsKCQ7J-3&ust=1649581521587000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIizrZfQhvcCFQAAAAAdAAAAABAD)](https://t.me/pavelkochkin1) 
+[![My Telegram](https://logos-world.net/wp-content/uploads/2021/03/Telegram-Symbol.png)](https://t.me/pavelkochkin1) 
 
 ### 📚 Looking for my CV? E-Mail me!
