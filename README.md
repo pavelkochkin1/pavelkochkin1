@@ -2,7 +2,10 @@
 
 ---
 
-Computer Science student at [**Computing Technology KFU**](https://kpfu.ru/computing-technology) with passion for ML, Python and new tech things. Fascinated by everything that's DS related. Kazan, Russia.
+Computer Science student at [**Computing Technology KFU**](https://kpfu.ru/computing-technology) with passion for ML, Python and new tech things. Fascinated by everything that's DS related. 
+
+20 y.o.
+Kazan, Russia.
 
 
 ### 🦾 Work
