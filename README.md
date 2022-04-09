@@ -23,7 +23,6 @@ Computer Science student at [**Computing Technology KFU**](https://kpfu.ru/compu
 - 📫 Ping me about **`.py`**, **`.java`** and **DS**
 
 ### 📧 Get in Touch
-
-[![My Telegram](https://logos-world.net/wp-content/uploads/2021/03/Telegram-Symbol.png)](https://t.me/pavelkochkin1) 
+<a href="https://t.me/pavelkochkin1" target="_blank"><img src='https://logos-world.net/wp-content/uploads/2021/03/Telegram-Symbol.png' width=100></a>
 
 ### 📚 Looking for my CV? E-Mail me!
