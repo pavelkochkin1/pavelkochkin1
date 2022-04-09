@@ -19,7 +19,8 @@ Computer Science student at [**Computing Technology KFU**](https://kpfu.ru/compu
 ### 👾 BIO
 
 - 🔭 I'm currently studying **ML & DL** @ [**MTS SDA**](https://www.teta.mts.ru/analytics)
-- 📫 Ping me about **`.py`**, **`.java`** and **DS**
+- 🔥 Adore tea, music and good conversations. 
+- 💪🏻 Looking for a work.
 
 ### 📧 Get in Touch
 <a href="https://t.me/pavelkochkin1" target="_blank"><img src='https://logos-world.net/wp-content/uploads/2021/03/Telegram-Symbol.png' width=100></a>
