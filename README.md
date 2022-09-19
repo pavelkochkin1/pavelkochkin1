@@ -17,7 +17,7 @@ Kazan, Russia.
 #### Data Science & Computer Science
 
 - <a href="https://www.teta.mts.ru/analytics" target="_blank"><img src='https://play-lh.googleusercontent.com/xqEyND_gIVqw8CXU7f4EJ3VTXY1_vgXRP2Ts8-p1BymH5e7DhFB2yWTemUFi3sBZsOoq' width=20></a> Currently go to [**MTS School of Data Analitics**](https://www.teta.mts.ru/analytics)
-- 🙋🏻‍♂️ Second-year bachelor in software engineering @ [**Computing Technology Kazan Federal University**](https://www.teta.mts.ru/analytics)
+- 🙋🏻‍♂️ Third-year bachelor in software engineering @ [**Computing Technology Kazan Federal University**](https://www.teta.mts.ru/analytics)
 
 ### 👾 BIO
 
